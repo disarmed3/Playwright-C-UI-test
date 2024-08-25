@@ -1,0 +1,17 @@
+# Ignore Visual Studio temporary files, build results, and
+# build directories.
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Playwright test results
+playwright-report/
+allure-results/
+allure-report/
+
+# Ignore other files
+.vs/
+.vscode/
